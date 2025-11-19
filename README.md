@@ -7,7 +7,7 @@ Aspiring cybersecurity analyst with hands-on experience in system hardening, vul
 - **Title:** Windows & Linux Hardening Using CIS Benchmarks
 - **Tools:** Kali Linux, VirtualBox, PowerShell, Shodan
 - **Summary:** Applied CIS benchmarks, identified misconfigurations, and implemented security controls.
-- **Full Report:** [View on Google Drive](https://drive.google.com/drive/folders/1vgW8PkjGchCMelviODR_6dTLqhvHjDEO?usp=drive_link))
+- **Full Report:** [View on Google Drive](https://drive.google.com/drive/folders/1vgW8PkjGchCMelviODR_6dTLqhvHjDEO?usp=drive_link)
 
 ## Additional Work
 - TryHackMe Labs
